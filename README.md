@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Samraddha 👋
 
-<!--
-**sammy-wq/sammy-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE undergrad | Embedded Systems • Networking • IoT
 
-Here are some ideas to get you started:
+🔧 Languages: C, C++, Python, JavaScript
+🌱 Areas: embedded firmware, low-latency networking, algorithmic systems, 3D visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- 🧊 [fem-mesh-viewer](https://github.com/sammy-wq/fem-mesh-viewer) — Browser-based 3D FEM mesh viewer (Three.js) with custom LS-DYNA file parser
+- 💾 [pic-lcd-firmware](https://github.com/sammy-wq/pic-lcd-firmware) — 4-bit LCD driver firmware for PIC16F73, reverse-engineered from an unlabeled PCB
+- 📈 [algo-trading-engine](https://github.com/sammy-wq/algo-trading-engine) — Async Python engine for trading signals with resilient broker sessions & multi-channel alerting
+- 🌐 [low-latency-tcp-demo](https://github.com/sammy-wq/low-latency-tcp-demo) — Kernel-bypass networking case study + raw-socket header construction demo
+
+📫 samraddha.cse@gmail.com
